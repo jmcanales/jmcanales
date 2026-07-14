@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Japheth
 
-<!--
-**jmcanales/jmcanales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy profesional de datos, automatización y desarrollo de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Trabajo con Python y n8n
+- 📊 Desarrollo soluciones en Power BI
+- ☁️ Aprendiendo Microsoft Fabric
+- 🎓 Interesado en Machine Learning
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/jcanalesas/
+- Correo: japheth.canalesa@hotmail.com
