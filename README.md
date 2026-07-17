@@ -76,6 +76,10 @@ Developer who transforms data into useful information and automates processes to
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter"/>
   </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  </a>
 </p>
 
 ---
