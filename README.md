@@ -21,7 +21,7 @@ Developer who transforms data into useful information and automates processes to
 
 ---
 
-## 📊 Data Analysis & Visualization
+## 📊 Business Intelligence
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
@@ -47,11 +47,15 @@ Developer who transforms data into useful information and automates processes to
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="Selenium"/>
   </a>
+  &nbsp;
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Programming & Data
+## 💻 Programming
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/>
@@ -69,6 +73,15 @@ Developer who transforms data into useful information and automates processes to
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   </a>
   &nbsp;
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter"/>
+  </a>
+</p>
+
+---
+
+## 🧪 Data Science
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas"/>
   </a>
@@ -81,8 +94,16 @@ Developer who transforms data into useful information and automates processes to
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   </a>
   &nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  </a>
+  &nbsp;
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
+  </a>
+  &nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
   </a>
 </p>
 
