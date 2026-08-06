@@ -187,6 +187,6 @@ Developer who transforms data into useful information and automates processes to
 
 <img src="https://komarev.com/ghpvc/?username=jmcanales&label=Profile%20Views&style=flat" alt="Profile Views">
 
-### ✨ Data tells stories; my job is to turn them into decisions.
+### ✨ Data tells stories; my job is to turn them into insights.
 
 </div>
